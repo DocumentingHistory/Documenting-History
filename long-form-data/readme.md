@@ -2,7 +2,7 @@
 
 ### Resources:
 
-- [*Scissors and Paste*](github.com/mhbeals/scissorsandpaste)
+- [*Scissors and Paste*](http://github.com/mhbeals/scissorsandpaste)
 
 ### Learning Objectives:
 
@@ -22,7 +22,7 @@
 
 ### Learning Objectives:
 
-- Develop a name convention that promotes versioning
+- Develop a naming convention that promotes versioning
 - Create an offline repository
 - Perform a **Commit** in an offline repository
 - Prepare a submission to an online repository
