@@ -1,4 +1,8 @@
-## Storing Your Long-Form Data (20 minutes)
+# Long-Form Data
+
+- [Slidedeck](https://docs.google.com/presentation/d/1xgowLj_nEuNTpCrVYr0fnZv9gcxl1xf0sMlW0O9YH8E)
+
+## Storing Your Long-Form Data
 
 ### Resources:
 
@@ -14,7 +18,7 @@
 - Develop a naming and organisation convention for the database
 - Document your naming and organisation convention for the database
 
-## Versioning  (20 minutes)
+## Versioning 
 
 ### Resources:
 
@@ -28,7 +32,7 @@
 - Prepare a submission to an online repository
 - Perform a **Push Request** 
 
-## Working Through Your Own Data (50 min)
+## Working Through Your Own Data
 
 ### Learning Objectives:
 
