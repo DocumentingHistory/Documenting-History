@@ -1,0 +1,19 @@
+Funder requirement exercise 15mins
+
+Can you find out the main data requirements of the following funders:
+
+
+1. Arts and Humanities Research Council: http://www.ahrc.ac.uk/
+
+2. Economic and Social Research Council: http://www.esrc.ac.uk/
+
+3. Wellcome Trust: https://wellcome.ac.uk/
+
+4. Horizon 2020: https://ec.europa.eu/programmes/horizon2020/
+
+5a. British Academy: http://www.britac.ac.uk/
+
+5b. The Leverhulme Trust: https://www.leverhulme.ac.uk/
+
+
+
