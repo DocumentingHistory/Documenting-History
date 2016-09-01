@@ -6,10 +6,10 @@ This repository will include the data and tools sets needed for the workshop
 
 ## Day One (1030 -- 1700)
 
-### Data Management as Part of a Research Workflow  
+### [Data Management as Part of a Research Workflow](https://github.com/DocumentingHistory/Workshop-Programme/tree/master/data-management-plan)
 Dr Gareth Cole, Loughborough University
 
-### Knowing the Vocabulary – Data Management & Grant Capture 
+### [Knowing the Vocabulary – Data Management & Grant Capture](https://github.com/DocumentingHistory/Workshop-Programme/tree/master/data-management-plan) 
 Dr Gareth Cole, Loughborough University
 
 ### Quantitative & Short-form Data (Numerical or Survey or Census Data) 
