@@ -1,4 +1,4 @@
-# Long-Form Data
+# Text Encoding for Historians
 
 - [Slidedeck](https://docs.google.com/presentation/d/1xgowLj_nEuNTpCrVYr0fnZv9gcxl1xf0sMlW0O9YH8E)
 
@@ -7,6 +7,11 @@
 ### Resources:
 
 - [*Scissors and Paste*](http://github.com/mhbeals/scissorsandpaste)
+- [Preserving you  Research Data Tutorial by James W. Baker](http://programminghistorian.org/lessons/preserving-your-research-data)
+- [ASCII Reference Sheet](http://www.theasciicode.com.ar/)
+- [Markdown Reference Sheet](http://www.lib.umich.edu/files/departments/dpp/20110429_04c.pdf)
+- [XML Reference Sheet](http://www.lib.umich.edu/files/departments/dpp/20110429_04c.pdf)
+- [TEI Reference Packet](http://www.wwp.northeastern.edu/outreach/seminars/uvic2009/handouts/elementList.pdf)
 
 ### Learning Objectives:
 
