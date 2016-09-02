@@ -1,3 +1,4 @@
+
 # Documenting History
 
 *A repository for the Documenting History Workshop (Loughborough University, September 5-6, 2016)*
@@ -12,8 +13,8 @@ Dr Gareth Cole, Loughborough University
 ### [Knowing the Vocabulary – Data Management & Grant Capture](https://github.com/DocumentingHistory/Workshop-Programme/tree/master/data-management-plan) 
 Dr Gareth Cole, Loughborough University
 
-### Quantitative & Short-form Data (Numerical or Survey or Census Data) 
-Dr Albert Meroño Peñuela, CLARIAH) 
+### [Linked Data for the Documenting Historian](https://github.com/DocumentingHistory/Workshop-Programme/tree/master/linked-data-documenting-historian) 
+Dr Albert Meroño Peñuela, CLARIAH)
 
 
 ## Day Two (1000 -- 1630) 
