@@ -19,7 +19,7 @@ Dr Albert Meroño Peñuela, CLARIAH)
 
 ## Day Two (1000 -- 1630) 
 
-### [Long-Form Qualitative Data (Manuscript or Printed Texts)](https://github.com/DocumentingHistory/Workshop-Programme/tree/master/long-form-data)
+### [Text-Encoding for Historians](https://github.com/DocumentingHistory/Workshop-Programme/tree/master/long-form-data)
 Dr Melodee Beals, Loughborough University
 
 ### [Publication and Dissemination of Data](https://github.com/DocumentingHistory/Workshop-Programme/tree/master/publication-and-dissemination-of-data)
