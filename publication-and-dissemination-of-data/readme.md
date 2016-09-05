@@ -2,7 +2,7 @@
 
 [Deck](http://www.slideshare.net/drjwbaker/publication-and-dissemination-of-data)
 
-## Workshop (90 minutes)
+## Workshop
 
 **20 minutes**
 
